@@ -8,13 +8,15 @@
   <meta name="Description" content="">
   <title>露露个人主页</title>
   <style>
-  #简介{width:200px;height:20px;}
-  #照片{width:100px;height:100px;float:right}
+  #简介{width:500px;height:400px}
+  #照片{width:500px;height:400px;float:right}
   </style>
  </head>
  <body>
   <h1>个人简历</h1>
  <hr>
+ <div id="照片"><img src="image/照片4.png" alt"善良美丽，知性优雅，吃货一枚" title="善良美丽，知性优雅，吃货一枚"/>
+   </div>
  <div id="简介">
   <h2>基本信息</h2>
   <p>姓名：刘雨露</p>
@@ -25,11 +27,9 @@
   <p>联系方式：15721956977</p>
   <p>QQ：1772794752</p>
    </div>
-  <div id="照片"><img src="照片3.jpg" alt"善良美丽，知性优雅，吃货一枚" title="善良美丽，知性优雅，吃货一枚"/>
-   </div>
     <hr>
   <h2>教育背景</h2>
-  <p>2015.9—2019.6&nbsp&nbsp&nbsp&nbsp陕西科技大大学/本科</p>
+  <p>2015.9—2019.6&nbsp&nbsp&nbsp&nbsp陕西科技大学/本科</p>
   <p>电气与信息工程学院/计算机科学与技术</p>
   <p>计本151<p/>
   <hr>
